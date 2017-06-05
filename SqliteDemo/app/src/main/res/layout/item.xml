@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_vertical">
+
+    <android.support.v7.widget.AppCompatEditText
+        android:id="@+id/name"
+        android:layout_alignParentLeft="true"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/item_height"
+        android:textColor="@color/font_color"/>
+
+    <android.support.v7.widget.AppCompatEditText
+        android:id="@+id/age"
+        android:layout_toRightOf="@id/name"
+        android:layout_marginLeft="@dimen/item_margin"
+        android:layout_width="wrap_content"
+        android:textColor="@color/font_color"
+        android:layout_height="@dimen/item_height" />
+    <android.support.v7.widget.AppCompatTextView
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/item_height"
+        android:text="@string/delete"
+        android:id="@+id/delete"
+        android:textColor="@color/font_color"
+        android:gravity="center_vertical"
+        android:layout_marginRight="10dp"
+        android:layout_alignParentRight="true"/>
+    <android.support.v7.widget.AppCompatTextView
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/item_height"
+        android:layout_gravity="center_vertical"
+        android:textColor="@color/font_color"
+        android:text="@string/modify"
+        android:id="@+id/modify"
+        android:gravity="center_vertical"
+        android:layout_marginRight="@dimen/item_margin"
+        android:layout_toLeftOf="@id/delete"/>
+
+</RelativeLayout>
