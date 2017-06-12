@@ -4,5 +4,5 @@
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
 
-    <color name="font_color">#ccc</color>
+    <color name="font_color">#000</color>
 </resources>

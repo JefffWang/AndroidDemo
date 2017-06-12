@@ -12,12 +12,15 @@ public class Constant {
             "name text , age int);";
     public static final String DROP_TABLE_SQL = "drop table if exists student";
 
-
+    public static final String DB_NAME = "student_db";
+//    public static int DB_VERSION = 1;
     public static final String TABLE_NAME = "student";
+    public static final String COLUMN_ID = "_id";
     public static final String COLUMN_NAME = "name";
     public static final String COLUMN_AGE = "age";
     public static final String NAME_PREFIX = "student";
 
     public static final String MAX_ID = "max_id";
-    public static final String PREF_NAME = "db_count_pref";
+    public static final String VERSION = "version";
+    public static final String PREF_NAME = "db_pref";
 }

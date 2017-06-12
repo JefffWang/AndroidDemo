@@ -4,18 +4,21 @@
     android:layout_height="wrap_content"
     android:gravity="center_vertical">
 
-    <android.support.v7.widget.AppCompatEditText
+    <android.support.v7.widget.AppCompatTextView
         android:id="@+id/name"
         android:layout_alignParentLeft="true"
         android:layout_width="wrap_content"
         android:layout_height="@dimen/item_height"
+        android:layout_marginLeft="@dimen/item_margin"
+        android:gravity="center_vertical"
         android:textColor="@color/font_color"/>
 
-    <android.support.v7.widget.AppCompatEditText
+    <android.support.v7.widget.AppCompatTextView
         android:id="@+id/age"
         android:layout_toRightOf="@id/name"
         android:layout_marginLeft="@dimen/item_margin"
         android:layout_width="wrap_content"
+        android:gravity="center_vertical"
         android:textColor="@color/font_color"
         android:layout_height="@dimen/item_height" />
     <android.support.v7.widget.AppCompatTextView
