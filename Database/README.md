@@ -10,4 +10,5 @@
 
 一个演示使用SQLiteOpenHelper做数据库增删该查和数据库升级的小例子。 在使用过程中碰到了一些坑，记录在这篇博客里，
 [使用SQLiteOpenHelper的正确姿势](http://blog.csdn.net/caixiaowang/article/details/73065741)
+
 ---
