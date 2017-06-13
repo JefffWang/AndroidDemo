@@ -1,13 +1,13 @@
 # Database
 
-°üº¬£ºÊı¾İ¿âÏà¹ØµÄdemoºÍË¼¿¼
+åŒ…å«ï¼šæ•°æ®åº“ç›¸å…³çš„demoå’Œæ€è€ƒ
 
-[<==·µ»ØÊ×Ò³==](https://github.com/JefffWang/AndroidDemo)
+[<==è¿”å›é¦–é¡µ==](https://github.com/JefffWang/AndroidDemo)
 
 ---
 
 **SqliteDemo**: https://github.com/JefffWang/AndroidDemo/tree/sqlite
 
-Ò»¸öÑİÊ¾Ê¹ÓÃSQLiteOpenHelper×öÊı¾İ¿âÔöÉ¾¸Ã²éºÍÊı¾İ¿âÉı¼¶µÄĞ¡Àı×Ó¡£ ÔÚÊ¹ÓÃ¹ı³ÌÖĞÅöµ½ÁËÒ»Ğ©¿Ó£¬¼ÇÂ¼ÔÚÕâÆª²©¿ÍÀï£¬
-
+ä¸€ä¸ªæ¼”ç¤ºä½¿ç”¨SQLiteOpenHelperåšæ•°æ®åº“å¢åˆ è¯¥æŸ¥å’Œæ•°æ®åº“å‡çº§çš„å°ä¾‹å­ã€‚ åœ¨ä½¿ç”¨è¿‡ç¨‹ä¸­ç¢°åˆ°äº†ä¸€äº›å‘ï¼Œè®°å½•åœ¨è¿™ç¯‡åšå®¢é‡Œï¼Œ
+[ä½¿ç”¨SQLiteOpenHelperçš„æ­£ç¡®å§¿åŠ¿](http://blog.csdn.net/caixiaowang/article/details/73065741)
 ---
