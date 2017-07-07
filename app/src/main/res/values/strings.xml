@@ -1,0 +1,13 @@
+<resources>
+    
+    <string name="app_name">Handler</string>
+    <string name="ui_thread_handler">和ui主线程通信</string>
+    <string name="other_thread_handler">和普通线程通信</string>
+
+    <string name="stop">点击可以让ui线程更新</string>
+
+    <string name="ui_thread_activity_description">在一个普通线程每隔1秒计数1次，\n并通过ui线程的handler，通知把计数更新到ui上，\n当点击button，会停止计数</string>
+
+    <string name="normal_thread_activity_description">当点击button时，\n会通过普通线程的handler，\n通知普通线程打一个log</string>
+
+</resources>
